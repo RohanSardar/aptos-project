@@ -15,5 +15,5 @@ The goal of this project is to **build a decentralized and reliable** proof syst
 With this smart contract, the future of AI-driven creativity remains **transparent, secure, and verifiable**. 🚀
 
 ## Hashes
-Transaction: 0x6056ea19bd352749696e9112e8d454e4901a43bd29a5b5d9100855a4144afe71
-Explorer link: https://explorer.aptoslabs.com/txn/0x6056ea19bd352749696e9112e8d454e4901a43bd29a5b5d9100855a4144afe71?network=devnet
+**Transaction**: 0x6056ea19bd352749696e9112e8d454e4901a43bd29a5b5d9100855a4144afe71
+<br>**Explorer link**: https://explorer.aptoslabs.com/txn/0x6056ea19bd352749696e9112e8d454e4901a43bd29a5b5d9100855a4144afe71?network=devnet
