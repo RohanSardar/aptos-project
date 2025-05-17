@@ -1,0 +1,15 @@
+[package]
+name = "aptos-project"
+version = "1.0.0"
+authors = []
+
+[addresses]
+
+[dev-addresses]
+SendMessage = "0xa87534fca00f045e170543ac8a900fcea78006bf99952db4ea0e1f87c7a6caa2"
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
